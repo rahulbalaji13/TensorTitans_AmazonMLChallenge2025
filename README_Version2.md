@@ -2,7 +2,7 @@
 
 ## Team Details
 - **Team Name:** TensorTitans
-- **Team Members:** Rahul, Sachin, Vamsi, Atul
+- **Team Members:** Rahul, Sachin, Vamsi, Subhasis
 
 ## Methodology
 
